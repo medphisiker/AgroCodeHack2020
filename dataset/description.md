@@ -1,3 +1,3 @@
-Ссылка на подготовленный мной PlantVillage-Dataset в нем только яблоки и их болезни.
+Ссылка на подготовленный датасет и подвыборки обучающей выборки(Fold):
 
-https://drive.google.com/drive/folders/1we5IQ4vR-zXuVZ_TZ8aZ042hkkVzQ_su?usp=sharing
+https://drive.google.com/drive/folders/1oAXNi0FhegInA_y0ubGfKdbFmIeLfnmM?usp=sharing
